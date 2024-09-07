@@ -1,54 +1,54 @@
-
-- ar
-- ar-x-fm
-- bg
-- bn
-- ca
-- cs
-- da
-- de
-- el
-- en
-- en-GB
-- es
-- eu
-- fa
-- fi
-- fil
-- fr
-- ga
-- gl
-- gu
-- he
-- hi
-- hr
-- hu
-- id
-- ig
-- it
-- ja
-- kn
-- ko
-- mr
-- ms
-- nb
-- nl
-- no
-- pl
-- pt
-- ro
-- ru
-- sr
-- sk
-- sv
-- ta
-- th
-- tr
-- uk
-- ur
-- vi
-- yo
-- zh
-- zh-Hant
-
-包括了所有提到的语言代码，并且已经去重。
+twitter任意页面html
+ar
+ar-x-fm
+bg
+bn
+ca
+cs
+da
+de
+el
+en
+en-GB
+es
+eu
+fa
+fi
+fil
+fr
+ga
+gl
+gu
+ha
+he
+hi
+hr
+hu
+id
+ig
+it
+ja
+kn
+ko
+mr
+ms
+nb
+nl
+no
+pl
+pt
+ro
+ru
+sk
+sr
+sv
+ta
+th
+tl
+tr
+uk
+ur
+vi
+yo
+zh
+zh-Hant
